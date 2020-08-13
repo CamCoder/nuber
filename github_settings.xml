@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="7f1ba20a-fdca-4287-b080-255f8608e846" name="saa114">
+      <server host="git.txstate.edu" />
+    </account>
+  </component>
+</application>
