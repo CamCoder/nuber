@@ -1,6 +1,6 @@
 # caterpie
 
-Heroku Link: https://nuber-caterpie.herokuapp.com/ 
+Heroku Link: https://nuber-caterpie.herokuapp.com/  (NOT ACTIVE)
 
 Administrators can access the API via /admin/
 
